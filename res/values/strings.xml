@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">学生用户登录界面</string>
+    <string name="app_name">学生信息管理系统</string>
+    <string name="id">编号：</string>
+    <string name="what">学号：</string>
+    <string name="name">学号:</string>
+    <string name="pass">密码:</string>
+    <string name="age">年龄:</string>
+    <string name="classname">班级:</string>
+    <string name="tel">电话:</string>
+    <string name="email">EMAIL:</string>
+    <string name="bt_reg">注册</string>
+    <string name="bt_cancel">取消</string>
+    <string name="notice">温馨提示</string>
+    <string name="addcancel">取消</string>
+    <string name="addsuccess">恭喜您，用户添加成功！</string>
+    <string name="updatesuccess">修改成功!</string>
+    <string name="addcancel_message">您要取消添加学生信息吗？</string>
+    <string name="addcancel_pmessage">你做的对,你还是记录下吧!</string>
+    <string name="adddel_message">你真的要删除该用户信息吗!</string>
+    <string name="addcancel_nmessage">返回</string>
+    <string name="admin_student">学生信息管理</string>
+    <string name="exit">注销</string>
+    <string name="back">返回</string>
+    <string name="helps">帮助</string>
+    <string name="delete_user">您确定要删除用户吗？</string>
+
+</resources>
